@@ -39,10 +39,10 @@ It is embedded in android bydefault. So, there is no need to perform any databas
 <img src="images/Screenshot16_Todo List Activity.jpg" width="300" height="550" />
 <br />
 <hr />
-<img src="images/Screenshot17_Todo List Activity.jpg" width="300" height="550" />
+<img src="images/Screenshot17_Google.jpg" width="300" height="550" />
 <br />
 <hr />
-<img src="images/Screenshot18_Todo List Activity.jpg" width="300" height="550" />
+<img src="images/Screenshot18_Google.jpg" width="300" height="550" />
 <br />
 <hr />
 <img src="images/Screenshot1_Todo List Activity.jpg" width="300" height="550" />
