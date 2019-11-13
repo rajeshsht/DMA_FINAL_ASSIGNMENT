@@ -9,15 +9,15 @@ Todo List Activity is an android application which has a basic features of CRUD 
 * CRUD functionality
 
 # Used Framework
-MVVM (Model View View Model)
+**MVVM (Model View View Model)**
 Model-View-ViewModel (MVVM) is a structural design pattern that separates objects into three distinct groups:
 
-* Models hold application data. They’re usually structs or simple classes.
-* Views display visual elements and controls on the screen. They’re typically subclasses of UIView.
-* View models transform model information into values that can be displayed on a view. They’re usually classes, so they can be passed around as references.
+* **Models** hold application data. They’re usually structs or simple classes.
+* **Views** display visual elements and controls on the screen. They’re typically subclasses of UIView.
+* **View models** transform model information into values that can be displayed on a view. They’re usually classes, so they can be passed around as references.
 
 # used Database
-SQLite Database
+**SQLite Database**
 SQLite is an open-source relational database i.e. used to perform database operations on android devices such as storing, manipulating or retrieving persistent data from the database.
 It is embedded in android bydefault. So, there is no need to perform any database setup or administration task.
 
