@@ -34,57 +34,38 @@ It is embedded in android bydefault. So, there is no need to perform any databas
 <hr />
 
 <img src="images/Screenshot15_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot16_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot17_Google.jpg" width="300" height="550" />
-
-<br />
 <hr />
 <img src="images/Screenshot18_Google.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot1_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot2_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot3_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot4_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot5_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot6_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot7_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot8_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot9_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot10_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot11_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot12_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot13_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
 <img src="images/Screenshot14_Todo List Activity.jpg" width="300" height="550" />
-<br />
 <hr />
