@@ -40,6 +40,7 @@ It is embedded in android bydefault. So, there is no need to perform any databas
 <br />
 <hr />
 <img src="images/Screenshot17_Google.jpg" width="300" height="550" />
+
 <br />
 <hr />
 <img src="images/Screenshot18_Google.jpg" width="300" height="550" />
